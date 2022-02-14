@@ -23,6 +23,8 @@ function setup() {
 
 
 function draw() {
-
+	Background(rgb(255, 216, 216));
+	
+	if playerhuman 
 }
 
